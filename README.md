@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw1101001&theme=dark&include_all_commits=true&show_icons=true&icon_color=9e00ff&count_private=true" />
 </a>
 <a href="https://github.com/tw1101001/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1101001&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1101001&theme=dark&count_private=true" />
 </a>
