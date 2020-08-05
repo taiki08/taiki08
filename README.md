@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tw1101001/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw1101001&count_private=true&incloud_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw1101001&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/tw1101001/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1101001" />
