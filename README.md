@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/tw1101001/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tw1101001&theme=dark&include_all_commits=true&show_icons=true&icon_color=9e00ff&count_private=true" />
+</a>
+<a href="https://github.com/tw1101001/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tw1101001&theme=dark&count_private=true" />
+</a>
 
 <!--
 **tw1101001/tw1101001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
