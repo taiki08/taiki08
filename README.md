@@ -1,5 +1,5 @@
 <!--
-**taiki08/taiki08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**taikiwakatsuki/taikiwakatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/taiki08/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taiki08&show_icons=true&icon_color=ffa200&bg_color=000000&title_color=ffffff&text_color=828282&include_all_commits=true&count_private=true&repo=github-readme-stats" />
+<a href="https://github.com/taikiwakatsuki/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taikiwakatsuki&show_icons=true&icon_color=ffa200&bg_color=000000&title_color=ffffff&text_color=828282&include_all_commits=true&count_private=true&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/taiki08/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiki08&title_color=000000&repo=github-readme-stats" />
+<a href="https://github.com/taikiwakatsuki/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikiwakatsuki&title_color=000000&repo=github-readme-stats" />
 </a>
